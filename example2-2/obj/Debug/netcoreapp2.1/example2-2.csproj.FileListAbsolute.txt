@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/bin/Debug/netcoreapp2.1/example2-2.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/bin/Debug/netcoreapp2.1/example2-2.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/bin/Debug/netcoreapp2.1/example2-2.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/bin/Debug/netcoreapp2.1/example2-2.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/bin/Debug/netcoreapp2.1/example2-2.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/obj/Debug/netcoreapp2.1/example2-2.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/obj/Debug/netcoreapp2.1/example2-2.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/obj/Debug/netcoreapp2.1/example2-2.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/obj/Debug/netcoreapp2.1/example2-2.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/obj/Debug/netcoreapp2.1/example2-2.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/example2-2/obj/Debug/netcoreapp2.1/example2-2.pdb
